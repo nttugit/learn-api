@@ -1,0 +1,36 @@
+{
+  "products": [
+    {
+      "name": "Trà Dâu Tằm",
+      "price": 29000,
+      "description": "Hap dan",
+      "id": "1dEETaoL-6zcTfkP0TvF6"
+    },
+    {
+      "name": "Trà Dâu Tây",
+      "price": 29000,
+      "description": "Hap dan",
+      "id": "n5IoHoikp-KlP2ciqkji7"
+    },
+    {
+      "name": "Mì Đại Gia",
+      "price": 47000,
+      "description": "Trứng gà lòng đào , 2 trứng non ,Tép mỡ , xúc xích , cải chua , hành phi",
+      "id": "STPCnsb7CTZgKx7KTOxCB"
+    },
+    {
+      "name": "Mì Sinh Viên",
+      "price": 40000,
+      "description": "Trứng gà lòng đào , Thanh cua ,Tép mỡ , xúc xích , cải chua , hành phi",
+      "id": "Sss9-FW5I1fqGnMLJueUc"
+    }
+  ],
+  "users": [
+    {
+      "id": "5YsFNN42B14VYHhpDyizn",
+      "name": "Administrator",
+      "email": "admin@gmail.com",
+      "password": 123456
+    }
+  ]
+}
